@@ -3,4 +3,4 @@
 {hk2}>{s5}{x1}{-lshft}{-lctrl}{rght}{+lshft}{+lctrl}
 {hk3}>{s5}{x1}{-lctrl}{-lalt}{lft}{+lctrl}{+lalt}
 {hk4}>{s5}{x1}{-lctrl}{-lalt}{rght}{+lctrl}{+lalt}
-{hk7}>{s7}{x1}{-lwin}{lspc}{+lwin}{c}{a}{l}{c}{u}{l}{a}{t}{o}{r}{ent}
+{hk7}>{s9}{x1}{-lwin}{lspc}{d50}{+lwin}{c}{a}{l}{c}{u}{l}{a}{t}{o}{r}{ent}
