@@ -1,6 +1,6 @@
-{hk1}>{s5}{x1}{-shift}{-ctrl}{lft}{+shift}{+ctrl}
-{hk2}>{s5}{x1}{-shift}{-ctrl}{rght}{+shift}{+ctrl}
-{hk3}>{s5}{x1}{-ctrl}{-alt}{lft}{+ctrl}{+alt}
-{hk4}>{s5}{x1}{-ctrl}{-alt}{rght}{+ctrl}{+alt}
-{hk5}>{s5}{x1}{-shift}{-lwin}{a}{+shift}{+lwin}
-[hk9]>[ctrl]
+{hk1}>{s5}{x1}{-lshft}{-lctrl}{lft}{+lshft}{+lctrl}
+{hk2}>{s5}{x1}{-lshft}{-lctrl}{rght}{+lshft}{+lctrl}
+{hk3}>{s5}{x1}{-lctrl}{-lalt}{lft}{+lctrl}{+lalt}
+{hk4}>{s5}{x1}{-lctrl}{-lalt}{rght}{+lctrl}{+lalt}
+{hk5}>{s5}{x1}{-lshft}{-lwin}{a}{+lshft}{+lwin}
+{hk6}>{s6}{x1}{-lwin}{lspc}{+lwin}{c}{a}{l}{c}{u}{l}{a}{t}{o}{r}{ent}
