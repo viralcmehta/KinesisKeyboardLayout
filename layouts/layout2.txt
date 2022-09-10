@@ -1,0 +1,6 @@
+{hk1}>{s5}{x1}{-shift}{-ctrl}{lft}{+shift}{+ctrl}
+{hk2}>{s5}{x1}{-shift}{-ctrl}{rght}{+shift}{+ctrl}
+{hk3}>{s5}{x1}{-ctrl}{-alt}{lft}{+ctrl}{+alt}
+{hk4}>{s5}{x1}{-ctrl}{-alt}{rght}{+ctrl}{+alt}
+{hk5}>{s5}{x1}{-shift}{-lwin}{a}{+shift}{+lwin}
+[hk9]>[ctrl]
