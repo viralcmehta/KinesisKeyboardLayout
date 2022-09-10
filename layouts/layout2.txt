@@ -1,6 +1,6 @@
+{hk0}>{s5}{x1}{-lshft}{-lwin}{a}{+lshft}{+lwin}
 {hk1}>{s5}{x1}{-lshft}{-lctrl}{lft}{+lshft}{+lctrl}
 {hk2}>{s5}{x1}{-lshft}{-lctrl}{rght}{+lshft}{+lctrl}
 {hk3}>{s5}{x1}{-lctrl}{-lalt}{lft}{+lctrl}{+lalt}
 {hk4}>{s5}{x1}{-lctrl}{-lalt}{rght}{+lctrl}{+lalt}
-{hk5}>{s5}{x1}{-lshft}{-lwin}{a}{+lshft}{+lwin}
-{hk6}>{s6}{x1}{-lwin}{lspc}{+lwin}{c}{a}{l}{c}{u}{l}{a}{t}{o}{r}{ent}
+{hk7}>{s7}{x1}{-lwin}{lspc}{+lwin}{c}{a}{l}{c}{u}{l}{a}{t}{o}{r}{ent}
