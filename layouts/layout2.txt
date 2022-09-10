@@ -1,6 +1,20 @@
 {hk0}>{s5}{x1}{-lshft}{-lwin}{a}{+lshft}{+lwin}
+[F1]>[mute]
+[F2]>[vol-]
+[F3]>[vol+]
+[F4]>[play]
+[F5]>[prev]
+[F6]>[next]
+{prnt}>{s9}{x1}{-lwin}{lspc}{d250}{+lwin}{c}{a}{l}{c}{u}{l}{a}{t}{o}{r}{ent}
 {hk1}>{s5}{x1}{-lshft}{-lctrl}{lft}{+lshft}{+lctrl}
 {hk2}>{s5}{x1}{-lshft}{-lctrl}{rght}{+lshft}{+lctrl}
 {hk3}>{s5}{x1}{-lctrl}{-lalt}{lft}{+lctrl}{+lalt}
 {hk4}>{s5}{x1}{-lctrl}{-lalt}{rght}{+lctrl}{+lalt}
-{hk7}>{s9}{x1}{-lwin}{lspc}{d50}{+lwin}{c}{a}{l}{c}{u}{l}{a}{t}{o}{r}{ent}
+[hk9]>[fntog]
+fn [mute]>[F1]
+fn [vol-]>[F2]
+fn [vol+]>[F3]
+fn [play]>[F4]
+fn [prev]>[F5]
+fn [next]>[F6]
+fn [hk9]>[fntog]
