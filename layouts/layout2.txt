@@ -20,3 +20,5 @@ fn [play]>[F4]
 fn [prev]>[F5]
 fn [next]>[F6]
 fn [hk9]>[fntog]
+{home}>{s5}{x1}{-lwin}{lft}{+lwin}
+{end}>{s5}{x1}{-lwin}{rght}{+lwin}
