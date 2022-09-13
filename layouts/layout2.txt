@@ -10,6 +10,8 @@
 {hk2}>{s5}{x1}{-lshft}{-lctrl}{rght}{+lshft}{+lctrl}
 {hk3}>{s5}{x1}{-lctrl}{-lalt}{lft}{+lctrl}{+lalt}
 {hk4}>{s5}{x1}{-lctrl}{-lalt}{rght}{+lctrl}{+lalt}
+{hk5}>{s5}{x1}{-lctrl}{lft}{+lctrl}
+{hk6}>{s5}{x1}{-lctrl}{rght}{+lctrl}
 [hk9]>[fntog]
 fn [mute]>[F1]
 fn [vol-]>[F2]
